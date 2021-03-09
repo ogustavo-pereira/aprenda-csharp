@@ -1,10 +1,10 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/swift/master/logo.png" alt="Aprenda Swift" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/learnbr/csharp/master/logo.png" alt="Aprenda Csharp" style="max-width:100%;">
 </p>
 
-<h1 align="center">Aprenda Swift</h1>
+<h1 align="center">Aprenda C#</h1>
 
-<p align="center">Agrupamento de link's sobre Swift.</p>
+<p align="center">Agrupamento de link's sobre C#.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
