@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png?token=AEHQXDKZA6ETQRHLDYQWRUDAI62JM" alt="Aprenda Swift" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png?token=AEHQXDKZA6ETQRHLDYQWRUDAI62JM" alt="Aprenda Csharp" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda C#</h1>
