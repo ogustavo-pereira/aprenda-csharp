@@ -104,8 +104,9 @@ Nome da Comunidade | Tipo | Idioma
 [Ir para o índice](#Índice)
 
 ## :paperclip: Feeds
+
 Nome do Feed | Idioma
-:-- | :--:
+:-- | :--
 [Feedspot](https://www.feedspot.com)|Inglês
 [DotNet Curry](https://www.dotnetcurry.com)|Inglês
 [Code Project](https://www.codeproject.com)|Inglês
@@ -114,8 +115,9 @@ Nome do Feed | Idioma
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
-:-- | :--:
+:-- | :--
 [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)|Português
 [.NET Rocks!](https://open.spotify.com/show/5tz9eGgXtNHmq3WVD3EwYx?si=xloBx_WQStO3GP-WNlZZxA)|Inglês
 [DevNaEstrada](https://pca.st/7ilb)|Português
