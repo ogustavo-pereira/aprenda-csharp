@@ -117,17 +117,3 @@ Nome do Podcast | Idioma
 [DevNaEstrada](https://pca.st/7ilb)|Português
 
 [Ir para o índice](#Índice)
-
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Alex Alves](https://github.com/alexalvess)
-
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
